@@ -87,9 +87,10 @@ itnaashar.com
 - [x] ~Populate ur.farmanali to 100%~
 ### Others
 - [x] ~APP -> Rework download to work in background~
+- [ ] APP -> Location checks not working in Native App
 - [ ] App -> Change Farsi font
 - [x] ~App -> Change App English font~
-- [x] ~APP -> Change PWA to APP~
+- [x] ~APP -> Change PWA to Native APP~
 - [x] ~APP -> Show loading animation when moving between reader routes~
 - [x] ~APP -> Downloaded data doesn't work when new update deployed~
 - [x] ~PWA -> top bugs back to white when switching themes~
