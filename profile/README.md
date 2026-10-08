@@ -1,7 +1,3 @@
-almehdi.com
-masoomeen.com
-itnaashar.com
-
 ## Features
 <details><summary>
   
